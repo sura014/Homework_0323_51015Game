@@ -1,0 +1,7 @@
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\bin\Debug\Homework_0323_51015Game.exe.config
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\bin\Debug\Homework_0323_51015Game.exe
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\bin\Debug\Homework_0323_51015Game.pdb
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\obj\Debug\Homework_0323_51015Game.csprojResolveAssemblyReference.cache
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\obj\Debug\Homework_0323_51015Game.csproj.CoreCompileInputs.cache
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\obj\Debug\Homework_0323_51015Game.exe
+C:\Users\chester\Documents\CMONEY_HOMEWORK\Homework_0323_51015Game\Homework_0323_51015Game\obj\Debug\Homework_0323_51015Game.pdb
